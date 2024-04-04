@@ -1,14 +1,14 @@
 # Project: Rectangle Area Calculator
 
-Objective: Create a C++ program that calculates the area of a rectangle.
+## Objective: Create a C++ program that calculates the area of a rectangle.
 
-Requirements:
+### Requirements:
 
 Knowledge of basic C++ syntax.
 Familiarity with compiling and running C++ programs.
 Steps:
 
-Write the C++ code:
+### Write the C++ code:
 Open your preferred text editor or IDE and create a new file named rectangle-area-calculator.cpp. Write the C++ code to calculate the area of a rectangle based on user input for length and width. Here's a basic template:
 
 cpp
