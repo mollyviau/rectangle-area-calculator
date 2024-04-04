@@ -54,7 +54,7 @@ Follow the prompts to enter the length and width of the rectangle, and the progr
 #### Test the program:
 Test the program with various input values to ensure it calculates the area correctly.
 
-## With Visual Studio instead of manual way:
+## With Visual Studio Compiler:
 Even though Visual Studio provides a convenient integrated development environment, you can still compile and link your Visual Studio solution from the command line if you wish to have more control or if you're working on a system without the Visual Studio IDE installed. Here's how you can do it:
 
 Open the Developer Command Prompt for Visual Studio: This special command prompt sets up the environment variables necessary for using Visual Studio's command-line tools.
