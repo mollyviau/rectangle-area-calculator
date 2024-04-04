@@ -11,8 +11,8 @@ Steps:
 ### Write the C++ code:
 Open your preferred text editor or IDE and create a new file named rectangle-area-calculator.cpp. Write the C++ code to calculate the area of a rectangle based on user input for length and width. Here's a basic template:
 
-cpp
-Copy code
+
+```
 #include <iostream>
 
 using namespace std;
@@ -32,6 +32,7 @@ int main() {
     
     return 0;
 }
+```
 Save the file: Save the rectangle-area-calculator.cpp file in your desired directory.
 
 Compile the program:
@@ -52,7 +53,7 @@ Follow the prompts to enter the length and width of the rectangle, and the progr
 Test the program:
 Test the program with various input values to ensure it calculates the area correctly.
 
-Additional Challenges (Optional):
+## Additional Challenges (Optional):
 
 Modify the program to calculate the perimeter of the rectangle as well.
 Add error handling to handle invalid user inputs.
