@@ -1,7 +1,7 @@
 # Project: Rectangle Area Calculator
 
 ## Objective: Create a C++ program that calculates the area of a rectangle.
-
+I created this project for myself to cement C++ compiling, linking and assembling in my mind.
 ### Requirements:
 
 Knowledge of basic C++ syntax.
